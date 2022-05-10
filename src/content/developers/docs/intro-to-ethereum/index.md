@@ -113,6 +113,7 @@ A reusable snippet of code (a program) which a developer publishes into EVM stat
 
 - [Ethereum Whitepaper](/whitepaper/)
 - [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway) - _Preethi Kasireddy_
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
 _Know of a community resource that helped you? Edit this page and add it!_
 
